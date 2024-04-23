@@ -7,11 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/vincentrider33" target="blank"><img src="https://img.shields.io/twitter/follow/vincentrider33?logo=twitter&style=for-the-badge" alt="vincentrider33" /></a> </p>
 
-- 🔭 I’m currently working on [Laravel](https://www.google.com/url?sa=i&url=https%3A%2F%2Finfosecwriteups.com%2Flaravel-8-x-image-upload-bypass-zero-day-852bd806019b&psig=AOvVaw0VMAMUHf_35StcemWxPJ8R&ust=1708282511163000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDQgLSGs4QDFQAAAAAdAAAAABAE)
+- 🔭 I’m currently working on [Laravel](https://www.google.com/url?sa=i&url=https%3A%2F%2Finfosecwriteups.com%2Flaravel-8-x-image-upload-bypass-zero-day-852bd806019b&psig=AOvVaw0VMAMUHf_35StcemWxPJ8R&ust=1708282511163000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDQgLSGs4QDFQAAAAAdAAAAABAE) & working on **Dart and ReactJs** 
 
 - 🌱 I’m currently learning **Dart and ReactJs**
 
 - 👯 I’m looking to collaborate on **for website development in php and JavaScript**
+
+- Becoming master in **github CI - CD pipeline development** 
 
 - 🤝 I’m looking for help with [Dart Language](https://images.app.goo.gl/UGMbKtkTTCM1G3AK8)
 
