@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/vincentrider33" target="blank"><img src="https://img.shields.io/twitter/follow/VincentPVincy?logo=twitter&style=for-the-badge" alt="VincentPVincy" /></a> </p>
 
-- 🔭 I’m currently working on [Laravel](https://www.google.com/url?sa=i&url=https%3A%2F%2Finfosecwriteups.com%2Flaravel-8-x-image-upload-bypass-zero-day-852bd806019b&psig=AOvVaw0VMAMUHf_35StcemWxPJ8R&ust=1708282511163000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDQgLSGs4QDFQAAAAAdAAAAABAE) & working on **Dart and ReactJs** 
+- 🔭 I’m currently working on [Laravel](https://www.google.com/url?sa=i&url=https%3A%2F%2Finfosecwriteups.com%2Flaravel-8-x-image-upload-bypass-zero-day-852bd806019b&psig=AOvVaw0VMAMUHf_35StcemWxPJ8R&ust=1708282511163000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDQgLSGs4QDFQAAAAAdAAAAABAE) & working on **React Expo and React Js** 
 
-- 🌱 I’m currently learning **Dart and ReactJs**
+- 🌱 I’m currently learning **Dart and MongoDB**
 
 - 👯 I’m looking to collaborate on **for website development in php and JavaScript**
 
@@ -28,7 +28,7 @@
 <a href="https://twitter.com/vincentrider33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vincentrider33" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/vincentrider" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vincentrider" height="30" width="40" /></a>
 <a href="https://fb.com/vincentplil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vincentplil" height="30" width="40" /></a>
-<a href="https://instagram.com/vincentrider33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vincentrider33" height="30" width="40" /></a>
+<a href="https://instagram.com/djvincy33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vincentrider33" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/clicktamil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="clicktamil" height="30" width="40" /></a>
 </p>
 
