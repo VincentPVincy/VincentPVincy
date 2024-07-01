@@ -1,11 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/vincentrider33?tab=projects)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://github.com/VincentPVincy?tab=projects)
 <h1 align="center">Hi 👋, I'm Vincent P Victor</h1>
 <h3 align="center">A passionate frontend developer from India, Bangalore</h3>
 <img align="right" alt="Coding" Width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vincentrider33&label=Profile%20views&color=0e75b6&style=flat" alt="vincentrider33" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=VincentPVincy&label=Profile%20views&color=0e75b6&style=flat" alt="VincentPVincy" /> </p>
 
-<p align="left"> <a href="https://twitter.com/vincentrider33" target="blank"><img src="https://img.shields.io/twitter/follow/vincentrider33?logo=twitter&style=for-the-badge" alt="vincentrider33" /></a> </p>
+<p align="left"> <a href="https://twitter.com/vincentrider33" target="blank"><img src="https://img.shields.io/twitter/follow/VincentPVincy?logo=twitter&style=for-the-badge" alt="VincentPVincy" /></a> </p>
 
 - 🔭 I’m currently working on [Laravel](https://www.google.com/url?sa=i&url=https%3A%2F%2Finfosecwriteups.com%2Flaravel-8-x-image-upload-bypass-zero-day-852bd806019b&psig=AOvVaw0VMAMUHf_35StcemWxPJ8R&ust=1708282511163000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIDQgLSGs4QDFQAAAAAdAAAAABAE) & working on **Dart and ReactJs** 
 
@@ -19,9 +19,9 @@
 
 - 💬 Ask me about **React and E-commerce releated site building**
 
-- 📫 How to reach me **Vincentrider33@gmail.cpom**
+- 📫 How to reach me **VincentPVincy@gmail.cpom**
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vincentrider33" alt="vincentrider33" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=VincentPVincy" alt="VincentPVincy" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
